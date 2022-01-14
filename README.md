@@ -1,5 +1,5 @@
 # old_projects
-This repository contains old projects from high school when I was teaching myself python
+This repository contains old projects from high school when I was teaching myself python. In the future I might revisit these, and polish them up using the knowledge that I've gained since then.
 
 # 1) CoffeeTimeRenewed
 
